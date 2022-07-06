@@ -1,0 +1,1 @@
+db.items.aggregate( [ { $unwind: "$sizes" }, { $group: { "_id": { $toUpper: "$sizes" }, "averagePrice": { $avg: "$price" } } }, { $sort: { "averagePrice": -1 } } ] )
