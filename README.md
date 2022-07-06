@@ -1,7 +1,9 @@
 # singers-challenge
 
 ## Task 1
-Running the server locally
+1. clone
+2. npm i
+3. run server locally (npm start)
 ### Main page (http://localhost:8080)
 ![](samples/main.png)
 
