@@ -1,7 +1,8 @@
 # singers-challenge
 
 ## Task 1
-### Main page
+Running the server locally
+### Main page (http://localhost:8080)
 ![](samples/main.png)
 
 ### Result
